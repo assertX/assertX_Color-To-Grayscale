@@ -1,7 +1,7 @@
 # assertX_Color_To_Grayscale
 In this assignment, you are going to write a program that converts a color image to grayscale image.  Your program reads in an image in PPM format, converts each pixel's color data to grayscale, then writes them to an output PPM image file.
 
-##In order to see the ppm, click the ppm link and hit download. It will open a new window up with all the text values.
+## In order to see the ppm, click the ppm link and hit download. It will open a new window up with all the text values.
 
 Your program reads in a PPM image file as input (filename: colorImage.ppm).  PPM is an image format which uses text to represent images.  Please see an example below.
 
